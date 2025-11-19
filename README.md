@@ -70,7 +70,6 @@ A machine learning model that:
 
 **Satisfaction**: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
 
-*Note that this data set was modified from this dataset by John D here. It has been cleaned up for the purposes of classification.*
 
 ## 🏗️ Model Approach
 
